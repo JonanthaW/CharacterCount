@@ -4,7 +4,7 @@
 
 ## :rocket: Sobre a página
 
-Uma simples ferramenta para checar exatamente quantos caractéres você digitou.
+A simple tool to check exactly how many characters you're using. 
 
 #### :wrench: Techs utilizadas:
 * _HTML_
