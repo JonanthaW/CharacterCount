@@ -14,3 +14,9 @@ Uma simples ferramenta para checar exatamente quantos caractéres você digitou.
 ### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/CharacterCount/blob/main/assets/example1.jpg)
+
+### :computer: Baixando o conteúdo:
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
