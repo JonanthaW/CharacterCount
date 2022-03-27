@@ -15,8 +15,11 @@ Uma simples ferramenta para checar exatamente quantos caractéres você digitou.
 
 ![image](https://github.com/JonanthaW/CharacterCount/blob/main/assets/example1.jpg)
 
+
 ### :computer: Baixando o conteúdo:
 
+<p>Feel free to download this repository and use it however you like. </p>
+
 ```bash
-$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+$ git clone https://github.com/JonanthaW/CharacterCount.git
 ```
