@@ -18,7 +18,7 @@ Uma simples ferramenta para checar exatamente quantos caractéres você digitou.
 
 ### :computer: Baixando o conteúdo:
 
-<p>Feel free to download this repository and use it however you like. </p>
+<p>Baixe este repositório e use-o como quiser. </p>
 
 ```bash
 $ git clone https://github.com/JonanthaW/CharacterCount.git
